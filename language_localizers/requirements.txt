@@ -1,0 +1,4 @@
+seaborn>=0.11.2
+nilearn>=0.8.1
+seaborn>=0.11.2
+jupyter>=1.0.0
